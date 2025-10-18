@@ -16,5 +16,6 @@ Models included:
 # Run Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/gayatri27027/nexus_aiml_week1_gayatri.git
+cd nexus_aiml_week1_gayatri
+
